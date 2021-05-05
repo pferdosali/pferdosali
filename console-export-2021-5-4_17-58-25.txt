@@ -1,0 +1,1165 @@
+17:55:43.151 XHRPOSThttps://api.robotigniteacademy.com/user_activity/
+17:55:43.176
+Object { url: "https://api.robotigniteacademy.com/user_activity/", ok: false, status: 0, statusText: "", headers: {…}, body: "", bodyText: "" }
+app.2f7f135e.js:1:138007
+17:55:43.272 GEThttps://app.theconstructsim.com/#/Desktop
+[HTTP/2 200 OK 1318ms]
+
+17:55:44.205 onclose handler main.js:242:11
+17:55:44.206 onclose handler main.js:242:11
+17:55:44.213 onclose handler main.js:242:11
+17:55:44.496 onclose handler main.js:242:11
+17:55:44.627 XHRPOSThttps://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=oMnA-boFC1UXEjik&docid=79TRqALia2s&ver=2&cmt=0&fs=0&rt=0.001&euri=https%3A%2F%2Fapp.theconstructsim.com%2F&lact=90777&cl=371598912&mos=0&volume=100&cbrand=apple&cbr=Firefox&cbrver=86.0&c=WEB_EMBEDDED_PLAYER&cver=1.20210502.0.0&cplayer=UNIPLAYER&cos=Macintosh&cosver=10.16&cplatform=DESKTOP&hl=en_US&cr=US&len=451&fexp=23748147%2C23940238%2C23969934%2C23975652%2C23983296%2C23995927%2C24001373%2C24006795%2C24007246%2C24012117%2C24014440%2C24019879%2C24022926%2C24033003&muted=0&vis=3
+[HTTP/2 204 No Content 729ms]
+
+17:55:44.665 XHRPOSThttps://www.youtube.com/api/stats/atr?ns=yt&el=embedded&cpn=nTQXIKX5d-F2cSzH&docid=8Met5vzusig&ver=2&cmt=0&fs=0&rt=0&euri=https%3A%2F%2Fapp.theconstructsim.com%2F&lact=90744&cl=371598912&mos=0&volume=100&cbrand=apple&cbr=Firefox&cbrver=86.0&c=WEB_EMBEDDED_PLAYER&cver=1.20210502.0.0&cplayer=UNIPLAYER&cos=Macintosh&cosver=10.16&cplatform=DESKTOP&hl=en_US&cr=US&len=698&fexp=23748147%2C23940238%2C23969934%2C23975652%2C23983296%2C23995927%2C24001373%2C24006795%2C24007246%2C24012117%2C24014440%2C24019879%2C24022926%2C24033003&muted=0&vis=3
+[HTTP/2 204 No Content 708ms]
+
+17:55:44.701 GEThttps://cdnjs.cloudflare.com/ajax/libs/video.js/7.6.6/video.min.js
+[HTTP/2 200 OK 914ms]
+
+17:55:44.702 GEThttps://player.live-video.net/1.2.0/amazon-ivs-player.min.js
+[HTTP/1.1 200 OK 3365ms]
+
+17:55:44.703 GEThttps://www.googletagmanager.com/gtag/js?id=UA-58670733-1
+[HTTP/2 200 OK 916ms]
+
+17:55:44.704 GEThttps://js.stripe.com/v3/
+[HTTP/2 200 OK 963ms]
+
+17:55:44.704 GEThttps://app.theconstructsim.com/js/app.2f7f135e.js
+[HTTP/2 200 OK 1324ms]
+
+17:55:44.705 GEThttps://app.theconstructsim.com/js/chunk-vendors.df21ffdd.js
+[HTTP/2 200 OK 1324ms]
+
+17:55:45.447 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/services
+[HTTP/1.1 101 Switching Protocols 1812ms]
+
+17:55:47.138 GEThttps://www.googletagmanager.com/gtm.js?id=GTM-PRH8B8C
+[HTTP/2 200 OK 1057ms]
+
+17:55:47.149 Feature Policy: Skipping unsupported feature name “payment”. v3:1:38457
+17:55:47.149 Feature Policy: Skipping unsupported feature name “payment”. v3:1:38549
+17:55:47.220 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb_ws/
+[HTTP/1.1 101 Switching Protocols 1985ms]
+
+17:55:47.235 GEThttps://www.google-analytics.com/analytics.js
+Tracking
+
+17:55:47.235 The resource at “<URL>” was blocked because content blocking is enabled. 8
+17:55:48.220 GEThttps://www.google-analytics.com/analytics.js
+Tracking
+
+17:55:48.230 GEThttps://www.google-analytics.com/analytics.js
+Tracking
+
+17:55:48.335 GEThttps://www.youtube.com/player_api
+[HTTP/2 200 OK 920ms]
+
+17:55:48.413 GEThttps://www.googletagmanager.com/gtag/js?id=GTM-PRH8B8C&l=dataLayer
+[HTTP/2 200 OK 1649ms]
+
+17:55:48.418 XHROPTIONShttps://api.robotigniteacademy.com/user_activity/
+[HTTP/2 200 OK 975ms]
+
+17:55:48.453 XHRGEThttps://api.robotigniteacademy.com/tags/
+[HTTP/2 200 OK 984ms]
+
+17:55:48.456 XHRGEThttps://api.robotigniteacademy.com/bookings/
+[HTTP/2 200 OK 1052ms]
+
+17:55:48.458 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 1899ms]
+
+17:55:48.462 XHRPOSThttps://api.robotigniteacademy.com/token/refresh/
+[HTTP/2 200 OK 1045ms]
+
+17:55:48.464 Feature Policy: Skipping unsupported feature name “payment”. v3:1:37744
+17:55:48.469 GEThttps://js.stripe.com/v3/m-outer-0369f5784d64b5d8df5e262d4b12f588.html#url=https%3A%2F%2Fapp.theconstructsim.com%2F%23%2FDesktop&title=Learn%20Robotics%20from%20Zero%20-%20Robotics%20%26%20ROS%20Online%20Courses&referrer=&muid=323b3a4e-2379-40f0-83f3-88a15b7dc56e25e2eb&sid=NA&version=6&preview=false
+[HTTP/2 200 OK 944ms]
+
+17:55:48.487 GEThttps://app.theconstructsim.com/img/logo.6f2644da.png
+[HTTP/2 200 OK 1318ms]
+
+17:55:49.262 GEThttps://www.youtube.com/s/player/3e7e4b43/www-widgetapi.vflset/www-widgetapi.js
+[HTTP/2 200 OK 782ms]
+
+17:55:49.395 XHRPOSThttps://api.robotigniteacademy.com/user_activity/
+[HTTP/2 401 Unauthorized 739ms]
+
+17:55:49.421 GEThttps://js.stripe.com/v3/fingerprinted/js/m-outer-b43290c4d50222c50d9f53f06af22482.js
+[HTTP/2 200 OK 693ms]
+
+17:55:49.699 XHRPOSThttps://api.robotigniteacademy.com/token/refresh/
+[HTTP/2 200 OK 1319ms]
+
+17:55:49.707 XHRGEThttps://api.robotigniteacademy.com/users/profile/
+[HTTP/2 200 OK 1683ms]
+
+17:55:49.710 XHRGEThttps://api.robotigniteacademy.com/courses/
+[HTTP/2 200 OK 7706ms]
+
+17:55:49.711 XHRGEThttps://api.robotigniteacademy.com/ros_distros/
+[HTTP/2 200 OK 1307ms]
+
+17:55:49.713 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 7840ms]
+
+17:55:49.755 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 7909ms]
+
+17:55:49.756 Will-change memory consumption is too high. Budget limit is the document surface area multiplied by 3 (751680 px). Occurrences of will-change over the budget will be ignored. app.theconstructsim.com
+17:55:50.056 Feature Policy: Skipping unsupported feature name “accelerometer”. www-widgetapi.js:705:251
+17:55:50.056 Feature Policy: Skipping unsupported feature name “autoplay”. www-widgetapi.js:705:251
+17:55:50.056 Feature Policy: Skipping unsupported feature name “clipboard-write”. www-widgetapi.js:705:251
+17:55:50.056 Feature Policy: Skipping unsupported feature name “encrypted-media”. www-widgetapi.js:705:251
+17:55:50.056 Feature Policy: Skipping unsupported feature name “gyroscope”. www-widgetapi.js:705:251
+17:55:50.056 Feature Policy: Skipping unsupported feature name “picture-in-picture”. www-widgetapi.js:705:251
+17:55:50.056 Feature Policy: Skipping unsupported feature name “accelerometer”. www-widgetapi.js:707:183
+17:55:50.056 Feature Policy: Skipping unsupported feature name “autoplay”. www-widgetapi.js:707:183
+17:55:50.056 Feature Policy: Skipping unsupported feature name “clipboard-write”. www-widgetapi.js:707:183
+17:55:50.056 Feature Policy: Skipping unsupported feature name “encrypted-media”. www-widgetapi.js:707:183
+17:55:50.056 Feature Policy: Skipping unsupported feature name “gyroscope”. www-widgetapi.js:707:183
+17:55:50.056 Feature Policy: Skipping unsupported feature name “picture-in-picture”. www-widgetapi.js:707:183
+17:55:50.056 Feature Policy: Skipping unsupported feature name “accelerometer”. www-widgetapi.js:710:242
+17:55:50.056 Feature Policy: Skipping unsupported feature name “autoplay”. www-widgetapi.js:710:242
+17:55:50.056 Feature Policy: Skipping unsupported feature name “clipboard-write”. www-widgetapi.js:710:242
+17:55:50.056 Feature Policy: Skipping unsupported feature name “encrypted-media”. www-widgetapi.js:710:242
+17:55:50.056 Feature Policy: Skipping unsupported feature name “gyroscope”. www-widgetapi.js:710:242
+17:55:50.056 Feature Policy: Skipping unsupported feature name “picture-in-picture”. www-widgetapi.js:710:242
+17:55:50.063 Feature Policy: Skipping unsupported feature name “accelerometer”. www-widgetapi.js:705:251
+17:55:50.063 Feature Policy: Skipping unsupported feature name “autoplay”. www-widgetapi.js:705:251
+17:55:50.063 Feature Policy: Skipping unsupported feature name “clipboard-write”. www-widgetapi.js:705:251
+17:55:50.063 Feature Policy: Skipping unsupported feature name “encrypted-media”. www-widgetapi.js:705:251
+17:55:50.063 Feature Policy: Skipping unsupported feature name “gyroscope”. www-widgetapi.js:705:251
+17:55:50.063 Feature Policy: Skipping unsupported feature name “picture-in-picture”. www-widgetapi.js:705:251
+17:55:50.064 GEThttps://www.youtube.com/embed/79TRqALia2s?autoplay=0&time=0&enablejsapi=1&origin=https%3A%2F%2Fapp.theconstructsim.com&widgetid=1
+[HTTP/2 200 OK 990ms]
+
+17:55:50.064 Feature Policy: Skipping unsupported feature name “accelerometer”. www-widgetapi.js:707:183
+17:55:50.064 Feature Policy: Skipping unsupported feature name “autoplay”. www-widgetapi.js:707:183
+17:55:50.064 Feature Policy: Skipping unsupported feature name “clipboard-write”. www-widgetapi.js:707:183
+17:55:50.064 Feature Policy: Skipping unsupported feature name “encrypted-media”. www-widgetapi.js:707:183
+17:55:50.064 Feature Policy: Skipping unsupported feature name “gyroscope”. www-widgetapi.js:707:183
+17:55:50.064 Feature Policy: Skipping unsupported feature name “picture-in-picture”. www-widgetapi.js:707:183
+17:55:50.064 Feature Policy: Skipping unsupported feature name “accelerometer”. www-widgetapi.js:710:242
+17:55:50.064 Feature Policy: Skipping unsupported feature name “autoplay”. www-widgetapi.js:710:242
+17:55:50.064 Feature Policy: Skipping unsupported feature name “clipboard-write”. www-widgetapi.js:710:242
+17:55:50.064 Feature Policy: Skipping unsupported feature name “encrypted-media”. www-widgetapi.js:710:242
+17:55:50.064 Feature Policy: Skipping unsupported feature name “gyroscope”. www-widgetapi.js:710:242
+17:55:50.064 Feature Policy: Skipping unsupported feature name “picture-in-picture”. www-widgetapi.js:710:242
+17:55:50.071 GEThttps://www.youtube.com/embed/8Met5vzusig?autoplay=0&time=0&enablejsapi=1&origin=https%3A%2F%2Fapp.theconstructsim.com&widgetid=2
+[HTTP/2 200 OK 1000ms]
+
+17:55:50.128 GEThttps://m.stripe.network/inner.html#url=https%3A%2F%2Fapp.theconstructsim.com%2F%23%2FDesktop&title=Learn%20Robotics%20from%20Zero%20-%20Robotics%20%26%20ROS%20Online%20Courses&referrer=&muid=323b3a4e-2379-40f0-83f3-88a15b7dc56e25e2eb&sid=NA&version=6&preview=false
+[HTTP/2 200 OK 1334ms]
+
+17:55:50.319 Failed to execute ‘postMessage’ on ‘DOMWindow’: The target origin provided (‘https://www.youtube.com’) does not match the recipient window’s origin (‘https://app.theconstructsim.com’). 2 app.theconstructsim.com
+17:55:50.321
+Object { url: "https://api.robotigniteacademy.com/user_activity/", ok: false, status: 401, statusText: "Unauthorized", headers: {…}, body: {…}, bodyText: "{\"detail\":\"Given token not valid for any token type\",\"code\":\"token_not_valid\",\"messages\":[{\"token_class\":\"AccessToken\",\"token_type\":\"access\",\"message\":\"Token is invalid or expired\"}]}" }
+user.js:195:14
+17:55:50.455 is alive interval - true DesktopMixin.js:82:14
+17:55:50.457 Open notebook only after it gets ready - loading jupyter done DesktopDebugMixin.js:21:14
+17:55:50.459 XHRPOSThttps://api.robotigniteacademy.com/desktop/im_alive/
+[HTTP/2 200 OK 6957ms]
+
+17:55:50.515 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/Cpp_unit2_topics_part2_newQuiz.ipynb
+[HTTP/1.1 200 OK 1040ms]
+
+17:55:50.519 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 7263ms]
+
+17:55:50.522 XHRPOSThttps://api.robotigniteacademy.com/app_settings/
+[HTTP/2 200 OK 6941ms]
+
+17:55:50.574 Failed to execute ‘postMessage’ on ‘DOMWindow’: The target origin provided (‘https://www.youtube.com’) does not match the recipient window’s origin (‘https://app.theconstructsim.com’). 4 app.theconstructsim.com
+17:55:51.024 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 6758ms]
+
+17:55:51.086 GEThttps://www.youtube.com/s/player/3e7e4b43/www-embed-player.vflset/www-embed-player.js
+[HTTP/2 200 OK 1178ms]
+
+17:55:51.086 Failed to execute ‘postMessage’ on ‘DOMWindow’: The target origin provided (‘https://www.youtube.com’) does not match the recipient window’s origin (‘https://app.theconstructsim.com’). app.theconstructsim.com
+17:55:51.087 GEThttps://www.youtube.com/s/player/3e7e4b43/player_ias.vflset/en_US/base.js
+[HTTP/2 200 OK 2220ms]
+
+17:55:51.090 GEThttps://www.youtube.com/s/player/3e7e4b43/fetch-polyfill.vflset/fetch-polyfill.js
+[HTTP/2 200 OK 1129ms]
+
+17:55:51.484 XHRPOSThttps://m.stripe.com/6
+[HTTP/2 200 OK 1018ms]
+
+17:55:51.562 This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. Cpp_unit2_topics_part2_newQuiz.ipynb
+17:55:51.568 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full,Safe&delayStartupUntil=configured
+[HTTP/1.1 200 OK 1765ms]
+
+17:55:51.569 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/custom/custom.css
+[HTTP/1.1 200 OK 775ms]
+
+17:55:51.571 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe
+[HTTP/1.1 200 OK 1937ms]
+
+17:55:51.572 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/preact/index.js?v=00a2fac73c670ce39ac53d26640eb542
+[HTTP/1.1 200 OK 1170ms]
+
+17:55:51.573 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/proptypes/index.js?v=c40890eb04df9811fcc4d47e53a29604
+[HTTP/1.1 200 OK 5110ms]
+
+17:55:51.574 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/preact-compat/index.js?v=aea8f6660e54b18ace8d84a9b9654c1c
+[HTTP/1.1 200 OK 1488ms]
+
+17:55:51.575 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f
+[HTTP/1.1 200 OK 2128ms]
+
+17:55:51.575 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/text-encoding/lib/encoding.js?v=d5bb0fc9ffeff7d98a69bb83daa51052
+[HTTP/1.1 200 OK 2152ms]
+
+17:55:51.577 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/notebook/js/main.min.js?v=617dbb6b838f3495e90f667d4b1f2fa9
+[HTTP/1.1 200 OK 15457ms]
+
+17:55:52.096 GEThttps://app.theconstructsim.com/img/icons/apple-touch-icon-152x152.png
+[HTTP/2 200 OK 1425ms]
+
+17:55:52.097 GEThttps://app.theconstructsim.com/img/icons/favicon-32x32.png
+[HTTP/2 200 OK 1397ms]
+
+17:55:52.219 GEThttps://www.youtube.com/s/player/3e7e4b43/fetch-polyfill.vflset/fetch-polyfill.js
+[HTTP/2 200 OK 0ms]
+
+17:55:52.264 GEThttps://www.youtube.com/s/player/3e7e4b43/www-embed-player.vflset/www-embed-player.js
+[HTTP/2 200 OK 0ms]
+
+17:55:53.307 GEThttps://www.youtube.com/s/player/3e7e4b43/player_ias.vflset/en_US/base.js
+[HTTP/2 200 OK 0ms]
+
+17:55:53.342 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js?V=2.7.5
+[HTTP/1.1 200 OK 5232ms]
+
+17:55:53.407 XHRGEThttps://googleads.g.doubleclick.net/pagead/id
+Tracking
+
+17:55:53.414 GEThttps://static.doubleclick.net/instream/ad_status.js
+Tracking
+
+17:55:53.449 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://googleads.g.doubleclick.net/pagead/id. (Reason: CORS request did not succeed).
+17:55:53.491 GEThttps://www.youtube.com/s/player/3e7e4b43/player_ias.vflset/en_US/remote.js
+[HTTP/2 200 OK 724ms]
+
+17:55:53.497 GEThttps://www.google.com/js/th/WWQVwyRs_f9revJqAn1jWFoTYhOXQrSjXTx0d6FtL8A.js
+[HTTP/2 200 OK 641ms]
+
+17:55:53.527 GEThttps://www.youtube.com/s/player/3e7e4b43/player_ias.vflset/en_US/embed.js
+[HTTP/2 200 OK 695ms]
+
+17:55:53.534 XHRGEThttps://googleads.g.doubleclick.net/pagead/id
+Tracking
+
+17:55:53.543 GEThttps://static.doubleclick.net/instream/ad_status.js
+Tracking
+
+17:55:53.550 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://googleads.g.doubleclick.net/pagead/id. (Reason: CORS request did not succeed).
+17:55:54.137 GEThttps://www.google.com/js/th/WWQVwyRs_f9revJqAn1jWFoTYhOXQrSjXTx0d6FtL8A.js
+[HTTP/2 200 OK 0ms]
+
+17:55:54.213 GEThttps://www.youtube.com/generate_204?ZCYTEg
+[HTTP/2 204 No Content 866ms]
+
+17:55:54.216 GEThttps://www.youtube.com/s/player/3e7e4b43/player_ias.vflset/en_US/remote.js
+[HTTP/2 200 OK 0ms]
+
+17:55:54.223 GEThttps://www.youtube.com/s/player/3e7e4b43/player_ias.vflset/en_US/embed.js
+[HTTP/2 200 OK 0ms]
+
+17:55:54.272 GEThttps://www.youtube.com/generate_204?E2WpCQ
+[HTTP/2 204 No Content 814ms]
+
+17:55:54.305 Some cookies are misusing the recommended “SameSite“ attribute 7
+17:55:57.498 I am alive received: [object Object] at Tue May 04 2021 17:55:57 GMT-0700 (Pacific Daylight Time) desktop.js:64:14
+17:55:57.503 641 641 AppMixin.js:80:14
+17:55:57.755 Rosject opened 1 seconds ago DesktopDebugMixin.js:21:14
+17:55:57.755 Rosject just opened - 9 seconds - waiting... DesktopDebugMixin.js:28:14
+17:55:58.613 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/config/Safe.js?V=2.7.5
+[HTTP/1.1 200 OK 2914ms]
+
+17:55:58.759 Rosject just opened - 10 seconds - waiting... DesktopDebugMixin.js:28:14
+17:55:59.766 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 1777ms]
+
+17:56:00.872 Unknown property ‘-moz-border-radius’.  Declaration dropped. codemirror.css:241:22
+17:56:00.981 Unknown pseudo-class or pseudo-element ‘-webkit-full-screen’.  Ruleset ignored due to bad selector. video-js.css:354:11
+17:56:00.982 Unknown property ‘-moz-box-shadow’.  Declaration dropped. jquery.typeahead.min.css:1:2214
+17:56:00.982 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery.typeahead.min.css:1:2967
+17:56:01.045 Expected ‘none’, URL, or filter function but found ‘Alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery-ui.min.css:7:516
+17:56:01.045 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery-ui.min.css:7:12176
+17:56:01.045 Expected ‘none’, URL, or filter function but found ‘Alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery-ui.min.css:7:18673
+17:56:01.045 Expected ‘none’, URL, or filter function but found ‘Alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery-ui.min.css:7:18823
+17:56:01.045 Expected ‘none’, URL, or filter function but found ‘Alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery-ui.min.css:7:18898
+17:56:01.045 Expected ‘none’, URL, or filter function but found ‘Alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. jquery-ui.min.css:7:29420
+17:56:01.129 Expected ‘none’, URL, or filter function but found ‘FlipH’.  Error in parsing value for ‘filter’.  Declaration dropped. materialdesignicons.scss:1:29
+17:56:01.129 Expected ‘none’, URL, or filter function but found ‘FlipV’.  Error in parsing value for ‘filter’.  Declaration dropped. materialdesignicons.scss:1:29
+17:56:01.224 Expected media feature name but found ‘-ms-high-contrast’. www-player-webp.css:1:17821
+17:56:01.224 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:22799
+17:56:01.225 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. www-player-webp.css:1:41652
+17:56:01.225 Expected declaration but found ‘*’.  Skipped to next declaration. www-player-webp.css:1:48799
+17:56:01.225 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. www-player-webp.css:1:49309
+17:56:01.226 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75211
+17:56:01.226 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75346
+17:56:01.226 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75611
+17:56:01.226 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75780
+17:56:01.227 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:111394
+17:56:01.227 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:111689
+17:56:01.227 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:116601
+17:56:01.227 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:119041
+17:56:01.227 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:120827
+17:56:01.227 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:126721
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:203738
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:203873
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:204150
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:204415
+17:56:01.229 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:220345
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:231134
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:231312
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:231944
+17:56:01.229 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:232105
+17:56:01.229 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:233437
+17:56:01.229 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:234728
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:240846
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:241033
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:241259
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:242409
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:261289
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:261411
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:264070
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:264285
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:265087
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:266043
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:268186
+17:56:01.230 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:268968
+17:56:01.232 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:334400
+17:56:01.232 Error in parsing value for ‘-webkit-box-pack’.  Declaration dropped. www-player-webp.css:1:334451
+17:56:01.232 Error in parsing value for ‘-moz-box-pack’.  Declaration dropped. www-player-webp.css:1:334470
+17:56:01.232 Expected color but found ‘none’.  Error in parsing value for ‘background-color’.  Declaration dropped. www-player-webp.css:1:346541
+17:56:01.236 Expected media feature name but found ‘-ms-high-contrast’. www-player-webp.css:1:17821
+17:56:01.237 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:22799
+17:56:01.237 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. www-player-webp.css:1:41652
+17:56:01.237 Expected declaration but found ‘*’.  Skipped to next declaration. www-player-webp.css:1:48799
+17:56:01.237 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. www-player-webp.css:1:49309
+17:56:01.238 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75211
+17:56:01.238 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75346
+17:56:01.238 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75611
+17:56:01.238 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:75780
+17:56:01.239 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:111394
+17:56:01.239 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:111689
+17:56:01.239 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:116601
+17:56:01.239 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:119041
+17:56:01.239 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:120827
+17:56:01.239 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:126721
+17:56:01.241 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:203738
+17:56:01.241 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:203873
+17:56:01.241 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:204150
+17:56:01.241 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:204415
+17:56:01.241 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:220345
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:231134
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:231312
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:231944
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:232105
+17:56:01.242 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:233437
+17:56:01.242 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:234728
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:240846
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:241033
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:241259
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:242409
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:261289
+17:56:01.242 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:261411
+17:56:01.243 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:264070
+17:56:01.243 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:264285
+17:56:01.243 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:265087
+17:56:01.243 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:266043
+17:56:01.243 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:268186
+17:56:01.243 Unknown property ‘-moz-background-size’.  Declaration dropped. www-player-webp.css:1:268968
+17:56:01.244 Unknown property ‘-moz-justify-content’.  Declaration dropped. www-player-webp.css:1:334400
+17:56:01.244 Error in parsing value for ‘-webkit-box-pack’.  Declaration dropped. www-player-webp.css:1:334451
+17:56:01.244 Error in parsing value for ‘-moz-box-pack’.  Declaration dropped. www-player-webp.css:1:334470
+17:56:01.244 Expected color but found ‘none’.  Error in parsing value for ‘background-color’.  Declaration dropped. www-player-webp.css:1:346541
+17:56:01.331 Error in parsing value for ‘-webkit-text-size-adjust’.  Declaration dropped. chunk-vendors.53d4a098.css:5:104
+17:56:01.331 Unknown pseudo-class or pseudo-element ‘-ms-expand’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:1954
+17:56:01.331 Unknown pseudo-class or pseudo-element ‘-ms-value’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:1986
+17:56:01.331 Unknown pseudo-class or pseudo-element ‘-ms-clear’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:20478
+17:56:01.336 Error in parsing value for ‘max-width’.  Declaration dropped. chunk-vendors.53d4a098.css:5:251331
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:318147
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:318295
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:320702
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:320846
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-clear’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:322419
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:337918
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:338043
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:338761
+17:56:01.338 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:338887
+17:56:01.339 Error in parsing value for ‘margin-right’.  Declaration dropped. chunk-vendors.53d4a098.css:5:377163
+17:56:01.339 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. chunk-vendors.53d4a098.css:5:396338
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘hover--active’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:414635
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘hover--active’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:415026
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘hover--active’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:416251
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘hover--active’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:416639
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘first-child’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:430575
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:437939
+17:56:01.340 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. chunk-vendors.53d4a098.css:5:438018
+17:56:01.340 Error in parsing value for ‘contain’.  Declaration dropped. chunk-vendors.53d4a098.css:5:443350
+17:56:01.354 Expected color but found ‘none’.  Error in parsing value for ‘background-color’.  Declaration dropped. app.5b792983.css:1:6777
+17:56:01.891 Check item loaded... DesktopDebugMixin.js:21:14
+17:56:02.785 Error in parsing value for ‘-webkit-text-size-adjust’.  Declaration dropped. normalize.less:14:2
+17:56:02.785 Unknown property ‘orphans’.  Declaration dropped. print.less:61:4
+17:56:02.785 Unknown property ‘widows’.  Declaration dropped. print.less:62:4
+17:56:02.786 Error in parsing value for ‘outline’.  Declaration dropped. tab-focus.less:7:2
+17:56:02.786 Error in parsing value for ‘outline’.  Declaration dropped. tab-focus.less:7:2
+17:56:02.786 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. vendor-prefixes.less:109:3
+17:56:02.786 Unknown pseudo-class or pseudo-element ‘-ms-expand’.  Ruleset ignored due to bad selector. forms.less:157:3
+17:56:02.786 Error in parsing value for ‘margin-top’.  Declaration dropped. forms.less:259:2
+17:56:02.787 Error in parsing value for ‘outline’.  Declaration dropped. tab-focus.less:7:2
+17:56:02.787 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.787 Expected ‘none’, URL, or filter function but found ‘progid’.  Error in parsing value for ‘filter’.  Declaration dropped. reset-filter.less:7:10
+17:56:02.788 Unknown property ‘zoom’.  Declaration dropped. media.less:13:2
+17:56:02.788 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.788 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.788 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.788 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.788 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.788 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.789 Expected media feature name but found ‘transform-3d’. carousel.less:31:4
+17:56:02.789 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.789 Expected ‘none’, URL, or filter function but found ‘progid’.  Error in parsing value for ‘filter’.  Declaration dropped. gradients.less:13:12
+17:56:02.789 Expected ‘none’, URL, or filter function but found ‘progid’.  Error in parsing value for ‘filter’.  Declaration dropped. gradients.less:13:12
+17:56:02.789 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. opacity.less:5:2
+17:56:02.789 Unrecognized at-rule or error parsing at-rule ‘@-ms-viewport’. responsive-utilities.less:23
+17:56:02.790 Unknown property ‘-moz-box-flex-group’.  Declaration dropped. flexbox.less:140:4
+17:56:02.790 Unknown property ‘box-flex-group’.  Declaration dropped. flexbox.less:141:4
+17:56:02.790 Unknown property ‘-moz-box-flex-group’.  Declaration dropped. flexbox.less:147:4
+17:56:02.790 Unknown property ‘box-flex-group’.  Declaration dropped. flexbox.less:148:4
+17:56:02.790 Error in parsing value for ‘-webkit-box-pack’.  Declaration dropped. flexbox.less:191:4
+17:56:02.790 Error in parsing value for ‘-moz-box-pack’.  Declaration dropped. flexbox.less:192:4
+17:56:02.790 Unknown property ‘box-pack’.  Declaration dropped. flexbox.less:193:4
+17:56:02.790 Error in parsing value for ‘justify-content’.  Declaration dropped. flexbox.less:196:4
+17:56:02.790 Error in parsing value for ‘-webkit-box-pack’.  Declaration dropped. flexbox.less:203:4
+17:56:02.790 Error in parsing value for ‘-moz-box-pack’.  Declaration dropped. flexbox.less:204:4
+17:56:02.790 Unknown property ‘box-pack’.  Declaration dropped. flexbox.less:205:4
+17:56:02.790 Expected color but found ‘none’.  Error in parsing value for ‘background-color’.  Declaration dropped. altuploadform.less:5:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.790 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.791 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.791 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.791 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.791 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.791 Expected media feature name but found ‘-moz-touch-enabled’. codecell.less:54:30
+17:56:02.791 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. vendor-prefixes.less:109:3
+17:56:02.791 Unknown pseudo-class or pseudo-element ‘-ms-expand’.  Ruleset ignored due to bad selector. forms.less:157:3
+17:56:02.792 Unknown pseudo-class or pseudo-element ‘-ms-input-placeholder’.  Ruleset ignored due to bad selector. vendor-prefixes.less:109:3
+17:56:02.792 Unknown pseudo-class or pseudo-element ‘-ms-expand’.  Ruleset ignored due to bad selector. forms.less:157:3
+17:56:02.792 Error in parsing value for ‘justify-content’.  Declaration dropped. modal.less:9:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:14:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:15:4
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:23:3
+17:56:02.792 Ruleset ignored due to bad selector. bordered-pulled.less:24:3
+17:56:02.792 Unknown property ‘-moz-box-shadow’.  Declaration dropped. tooltip.less:27:1
+17:56:03.463 XHRPOSThttps://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+[HTTP/2 200 OK 1252ms]
+
+17:56:03.557 Some cookies are misusing the recommended “SameSite“ attribute 2
+17:56:03.566 XHRPOSThttps://www.youtube.com/youtubei/v1/log_event?alt=json&key=AIzaSyAO_FJ2SlqU8Q4STEHLGCilw_Y9_11qcW8
+[HTTP/2 200 OK 1150ms]
+
+17:56:06.896 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 2946ms]
+
+17:56:07.242 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/services/contents.js?v=20210505005037
+[HTTP/1.1 200 OK 1721ms]
+
+17:56:08.975 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/config/notebook?_=1620176167099
+[HTTP/1.1 200 OK 779ms]
+
+17:56:08.978 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/config/common?_=1620176167100
+[HTTP/1.1 200 OK 785ms]
+
+17:56:08.991 Unknown property ‘-moz-border-radius’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:94
+17:56:08.991 Unknown property ‘-moz-box-shadow’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:217
+17:56:08.992 Unknown property ‘-moz-border-radius’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:2:195
+17:56:08.995 Unknown property ‘-moz-border-radius’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:478
+17:56:08.995 Unknown property ‘-moz-box-shadow’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:607
+17:56:08.995 Expected ‘none’, URL, or filter function but found ‘progid’.  Error in parsing value for ‘filter’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:681
+17:56:08.995 Unknown property ‘-moz-border-radius’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:3:430
+17:56:08.995 Unknown property ‘-moz-box-shadow’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:3:557
+17:56:08.995 Expected ‘none’, URL, or filter function but found ‘progid’.  Error in parsing value for ‘filter’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:3:631
+17:56:08.995 Unknown property ‘-moz-border-radius’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:21:174
+17:56:08.995 Unknown property ‘-moz-border-radius’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:22:156
+17:56:09.004 Unknown property ‘-moz-box-shadow’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:557
+17:56:09.004 Expected ‘none’, URL, or filter function but found ‘progid’.  Error in parsing value for ‘filter’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:1:629
+17:56:09.004 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:2:203
+17:56:09.004 Expected ‘none’, URL, or filter function but found ‘alpha(’.  Error in parsing value for ‘filter’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:4:178
+17:56:09.005 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/extensions/MathML/content-mathml.js?V=2.7.5
+17:56:09.011 Use of Mutation Events is deprecated. Use MutationObserver instead. jquery.min.js:2
+17:56:09.016 actions jupyter-notebook:find-and-replace does not exist, still binding it in case it will be defined later... menubar.js:277
+17:56:09.022 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/kernelspecs
+17:56:09.029 accessing "actions" on the global IPython/Jupyter is not recommended. Pass it to your objects contructors at creation time main.js:208
+17:56:09.036 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/contents/basic_ROS_Cpp/Cpp_unit2_topics_part2_newQuiz.ipynb?type=notebook&_=1620176167101
+17:56:09.041 Loaded moment locale en bidi.js:19
+17:56:09.043 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/custom/custom.js?v=20210505005037
+17:56:09.056 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js?V=2.7.5
+17:56:09.060 Error in parsing value for ‘vertical-align’.  Declaration dropped. Cpp_unit2_topics_part2_newQuiz.ipynb:54:42
+17:56:09.079 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/extensions/Safe.js?V=2.7.5
+17:56:09.757 load_extensions 
+Arguments { 0: "bqplot/extension", 1: "jupyter-js-widgets/extension", 2: "jupyter-ros/extension", … }
+utils.js:60
+17:56:09.771 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/nbextensions/bqplot/extension.js?v=20210505005037
+17:56:09.772 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/nbextensions/jupyter-js-widgets/extension.js?v=20210505005037
+17:56:09.773 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/nbextensions/jupyter-ros/extension.js?v=20210505005037
+17:56:09.861 Is it course or rosject? DesktopDebugMixin.js:21:14
+17:56:09.862 Define as course DesktopDebugMixin.js:21:14
+17:56:09.862 Check item loaded defined! DesktopDebugMixin.js:21:14
+17:56:09.862 is alive interval - true DesktopMixin.js:82:14
+17:56:09.886 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/Cpp_unit2_topics_part2_newQuiz.ipynb
+[HTTP/1.1 200 OK 2109ms]
+
+17:56:09.905 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e
+[HTTP/1.1 301 Moved Permanently 2399ms]
+
+17:56:09.954 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/ignite.html?x=-0.8&y=-0.8&z=0.65
+[HTTP/1.1 200 OK 2939ms]
+
+17:56:09.967 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/index/1
+[HTTP/1.1 200 OK 3144ms]
+
+17:56:09.997 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/index/2
+[HTTP/1.1 200 OK 3981ms]
+
+17:56:10.048 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/index/3
+[HTTP/1.1 200 OK 2750ms]
+
+17:56:10.098 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/index/4
+[HTTP/1.1 200 OK 2522ms]
+
+17:56:11.832 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/xterm.css
+[HTTP/1.1 200 OK 903ms]
+
+17:56:11.835 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fullscreen/fullscreen.css
+[HTTP/1.1 200 OK 1028ms]
+
+17:56:11.836 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/style.css
+[HTTP/1.1 200 OK 1077ms]
+
+17:56:11.838 GEThttps://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.auto.min.js
+[HTTP/2 200 OK 773ms]
+
+17:56:11.838 GEThttps://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js
+[HTTP/2 200 OK 783ms]
+
+17:56:11.840 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/xterm.js
+[HTTP/1.1 200 OK 5213ms]
+
+17:56:11.841 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/attach/attach.js
+[HTTP/1.1 200 OK 1213ms]
+
+17:56:11.843 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fit/fit.js
+[HTTP/1.1 200 OK 1540ms]
+
+17:56:11.847 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fullscreen/fullscreen.js
+[HTTP/1.1 200 OK 1876ms]
+
+17:56:11.848 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/search/search.js
+[HTTP/1.1 200 OK 5529ms]
+
+17:56:11.849 GEThttps://code.jquery.com/jquery-1.12.4.min.js
+[HTTP/2 200 OK 821ms]
+
+17:56:11.850 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/main.js
+[HTTP/1.1 200 OK 1990ms]
+
+17:56:11.855 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/js/include/stats.min.js
+[HTTP/1.1 200 OK 1996ms]
+
+17:56:11.856 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/gz3d.gui.js
+[HTTP/1.1 200 OK 3118ms]
+
+17:56:12.027 This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. Cpp_unit2_topics_part2_newQuiz.ipynb
+17:56:12.031 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML-full,Safe&delayStartupUntil=configured
+[HTTP/1.1 304 Not Modified 2793ms]
+
+17:56:12.032 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/custom/custom.css
+[HTTP/1.1 304 Not Modified 2462ms]
+
+17:56:12.032 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/es6-promise/promise.min.js?v=f004a16cb856e0ff11781d01ec5ca8fe
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.033 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/preact/index.js?v=00a2fac73c670ce39ac53d26640eb542
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.039 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/proptypes/index.js?v=c40890eb04df9811fcc4d47e53a29604
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.044 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/preact-compat/index.js?v=aea8f6660e54b18ace8d84a9b9654c1c
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.047 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/requirejs/require.js?v=951f856e81496aaeec2e71a1c2c0d51f
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.048 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/text-encoding/lib/encoding.js?v=d5bb0fc9ffeff7d98a69bb83daa51052
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.050 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/notebook/js/main.min.js?v=617dbb6b838f3495e90f667d4b1f2fa9
+[HTTP/1.1 200 OK 0ms]
+
+17:56:12.307 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/
+[HTTP/1.1 200 OK 23108ms]
+
+17:56:12.613 GEThttps://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.auto.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.617 GEThttps://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.auto.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.622 GEThttps://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.624 GEThttps://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.640 GEThttps://cdnjs.cloudflare.com/ajax/libs/es6-promise/4.1.1/es6-promise.auto.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.650 GEThttps://cdnjs.cloudflare.com/ajax/libs/fetch/1.0.0/fetch.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.662 GEThttps://code.jquery.com/jquery-1.12.4.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.663 GEThttps://code.jquery.com/jquery-1.12.4.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:12.665 GEThttps://code.jquery.com/jquery-1.12.4.min.js
+[HTTP/2 200 OK 0ms]
+
+17:56:13.064 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/attach/attach.js
+[HTTP/1.1 304 Not Modified 1859ms]
+
+17:56:13.385 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fit/fit.js
+[HTTP/1.1 304 Not Modified 2167ms]
+
+17:56:13.726 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fullscreen/fullscreen.js
+[HTTP/1.1 304 Not Modified 1909ms]
+
+17:56:13.843 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/main.js
+[HTTP/1.1 304 Not Modified 1840ms]
+
+17:56:14.837 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/config/TeX-AMS-MML_HTMLorMML-full.js?V=2.7.5
+[HTTP/1.1 304 Not Modified 1977ms]
+
+17:56:14.910 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/services/contents.js?v=20210505005037
+[HTTP/1.1 200 OK 0ms]
+
+17:56:14.928 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/attach/attach.js
+[HTTP/1.1 304 Not Modified 1715ms]
+
+17:56:14.977 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/ignite.html?x=-0.8&y=-0.8&z=0.65
+[HTTP/1.1 200 OK 0ms]
+
+17:56:15.004 Use of Mutation Events is deprecated. Use MutationObserver instead. jquery.min.js:2
+17:56:15.007 actions jupyter-notebook:find-and-replace does not exist, still binding it in case it will be defined later... menubar.js:277
+17:56:15.010 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/config/notebook?_=1620176174865
+[HTTP/1.1 200 OK 1705ms]
+
+17:56:15.016 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/config/common?_=1620176174866
+[HTTP/1.1 200 OK 1740ms]
+
+17:56:15.018 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/kernelspecs
+[HTTP/1.1 200 OK 2311ms]
+
+17:56:15.018 accessing "actions" on the global IPython/Jupyter is not recommended. Pass it to your objects contructors at creation time main.js:208
+17:56:15.030 Loaded moment locale en bidi.js:19
+17:56:15.031 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/contents/basic_ROS_Cpp/Cpp_unit2_topics_part2_newQuiz.ipynb?type=notebook&_=1620176174867
+[HTTP/1.1 200 OK 4893ms]
+
+17:56:15.035 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/custom/custom.js?v=20210505005037
+[HTTP/1.1 200 OK 4201ms]
+
+17:56:15.038 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/js/include/stats.min.js
+[HTTP/1.1 200 OK 0ms]
+
+17:56:15.039 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/gz3d.gui.js
+[HTTP/1.1 200 OK 12522ms]
+
+17:56:15.554 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fit/fit.js
+[HTTP/1.1 304 Not Modified 2659ms]
+
+17:56:15.636 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fullscreen/fullscreen.js
+[HTTP/1.1 304 Not Modified 2337ms]
+
+17:56:15.684 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/main.js
+[HTTP/1.1 304 Not Modified 2386ms]
+
+17:56:16.645 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/attach/attach.js
+[HTTP/1.1 304 Not Modified 2478ms]
+
+17:56:16.717 load_extensions 
+Arguments { 0: "bqplot/extension", 1: "jupyter-js-widgets/extension", 2: "jupyter-ros/extension", … }
+utils.js:60
+17:56:16.732 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/nbextensions/bqplot/extension.js?v=20210505005037
+[HTTP/1.1 200 OK 2165ms]
+
+17:56:16.734 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/nbextensions/jupyter-js-widgets/extension.js?v=20210505005037
+[HTTP/1.1 200 OK 6727ms]
+
+17:56:16.734 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/nbextensions/jupyter-ros/extension.js?v=20210505005037
+[HTTP/1.1 200 OK 3283ms]
+
+17:56:16.853 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/config/Safe.js?V=2.7.5
+[HTTP/1.1 304 Not Modified 3210ms]
+
+17:56:17.055 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/xterm.js
+[HTTP/1.1 304 Not Modified 3089ms]
+
+17:56:17.378 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/search/search.js
+[HTTP/1.1 304 Not Modified 3467ms]
+
+17:56:17.391 xterm.BASE_URL: /eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm main.js:11:9
+17:56:17.404 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals?cols=80&rows=24&index=3
+[HTTP/1.1 200 OK 4942ms]
+
+17:56:17.979 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fullscreen/fullscreen.js
+[HTTP/1.1 304 Not Modified 2922ms]
+
+17:56:18.072 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/main.js
+[HTTP/1.1 304 Not Modified 3623ms]
+
+17:56:18.214 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/fit/fit.js
+[HTTP/1.1 304 Not Modified 2610ms]
+
+17:56:18.901 Loading extension: bqplot/extension utils.js:37
+17:56:19.247 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/custom/ignite_notebook.css
+[HTTP/1.1 200 OK 2416ms]
+
+17:56:20.029 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/kobuki_wall.png
+[HTTP/1.1 302 Found 2387ms]
+
+17:56:20.084 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/kobuki.jpg
+[HTTP/1.1 302 Found 2370ms]
+
+17:56:20.144 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/xterm.js
+[HTTP/1.1 304 Not Modified 1599ms]
+
+17:56:20.477 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/cpp_subscriber_output.png
+[HTTP/1.1 302 Found 4454ms]
+
+17:56:20.640 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/TC-logo-blue.png
+[HTTP/1.1 302 Found 4596ms]
+
+17:56:20.846 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/search/search.js
+[HTTP/1.1 304 Not Modified 959ms]
+
+17:56:21.259 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/roscpp_compiling_msg.png
+[HTTP/1.1 302 Found 4789ms]
+
+17:56:21.559 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/mini_project_1.gif
+[HTTP/1.1 302 Found 4814ms]
+
+17:56:21.591 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/mini_project_2.gif
+[HTTP/1.1 302 Found 4168ms]
+
+17:56:21.739 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/turtle_laser3.png
+[HTTP/1.1 302 Found 4259ms]
+
+17:56:21.745 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/xterm.js
+[HTTP/1.1 304 Not Modified 777ms]
+
+17:56:21.806 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/build/addons/search/search.js
+[HTTP/1.1 304 Not Modified 1179ms]
+
+17:56:21.842 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/correct_quiz_btn.png
+[HTTP/1.1 302 Found 5126ms]
+
+17:56:21.843 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/tik_cross.png
+[HTTP/1.1 302 Found 5178ms]
+
+17:56:21.890 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/myrosjects.png
+[HTTP/1.1 302 Found 5241ms]
+
+17:56:21.891 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/notebooks/basic_ROS_Cpp/img/openrosject.png
+[HTTP/1.1 302 Found 5248ms]
+
+17:56:21.944 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/sessions
+[HTTP/1.1 201 Created 1144ms]
+
+17:56:21.945 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/kernelspecs/python2/logo-64x64.png
+[HTTP/1.1 200 OK 13686ms]
+
+17:56:21.946 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/contents/basic_ROS_Cpp/Cpp_unit2_topics_part2_newQuiz.ipynb/checkpoints?_=1620176174868
+[HTTP/1.1 500 Internal Server Error 1207ms]
+
+17:56:21.953 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/extensions/MathML/content-mathml.js?V=2.7.5
+[HTTP/1.1 200 OK 1365ms]
+
+17:56:22.013 xterm.BASE_URL: /eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm main.js:11:9
+17:56:22.035 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals?cols=107&rows=8&index=1
+[HTTP/1.1 200 OK 2096ms]
+
+17:56:22.140 xterm.BASE_URL: /eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm main.js:11:9
+17:56:22.147 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals?cols=80&rows=24&index=2
+[HTTP/1.1 200 OK 2275ms]
+
+17:56:22.239 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/jax/output/HTML-CSS/fonts/STIX-Web/fontdata.js?V=2.7.5
+[HTTP/1.1 200 OK 1533ms]
+
+17:56:22.286 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/static/components/MathJax/extensions/Safe.js?V=2.7.5
+[HTTP/1.1 200 OK 1679ms]
+
+17:56:22.348 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/565
+[HTTP/1.1 101 Switching Protocols 14273ms]
+
+17:56:22.419 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/kobuki_wall.png
+[HTTP/1.1 200 OK 5231ms]
+
+17:56:22.455 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/kobuki.jpg
+[HTTP/1.1 200 OK 1629ms]
+
+17:56:23.000 xterm.BASE_URL: /eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm main.js:11:9
+17:56:23.005 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals?cols=80&rows=24&index=4
+[HTTP/1.1 200 OK 1615ms]
+
+17:56:23.196 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/kernels/9350a75f-5bf2-471d-be4b-289d514e5a3b/restart
+[HTTP/1.1 200 OK 1526ms]
+
+17:56:23.362 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/565/size?cols=79&rows=23
+[HTTP/1.1 200 OK 1380ms]
+
+17:56:24.936 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/cpp_subscriber_output.png
+[HTTP/1.1 200 OK 4819ms]
+
+17:56:25.148 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/556/size?cols=106&rows=7
+[HTTP/1.1 200 OK 1272ms]
+
+17:56:25.239 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/TC-logo-blue.png
+[HTTP/1.1 200 OK 2848ms]
+
+17:56:25.428 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/563/size?cols=79&rows=23
+[HTTP/1.1 200 OK 1007ms]
+
+17:56:25.624 XHRPOSThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/569/size?cols=79&rows=23
+[HTTP/1.1 200 OK 1028ms]
+
+17:56:25.763 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/mini_project_2.gif
+[HTTP/1.1 200 OK 14997ms]
+
+17:56:26.002 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/turtle_laser3.png
+[HTTP/1.1 200 OK 18268ms]
+
+17:56:26.051 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/roscpp_compiling_msg.png
+[HTTP/1.1 200 OK 7892ms]
+
+17:56:26.378 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/mini_project_1.gif
+[HTTP/1.1 200 OK 13843ms]
+
+17:56:26.972 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/correct_quiz_btn.png
+[HTTP/1.1 200 OK 3182ms]
+
+17:56:27.029 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/tik_cross.png
+[HTTP/1.1 200 OK 5921ms]
+
+17:56:27.151 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/myrosjects.png
+[HTTP/1.1 200 OK 7534ms]
+
+17:56:27.152 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/files/basic_ROS_Cpp/img/openrosject.png
+[HTTP/1.1 200 OK 6641ms]
+
+17:56:27.601 Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead gz3d.gui.js:62957:21
+17:56:27.601 unreachable code after return statement gz3d.gui.js:66848:2
+17:56:27.648 THREE.WebGLRenderer 86 gz3d.gui.js:20307:11
+17:56:27.723 Empty string passed to getElementById(). gz3d.gui.js:62954:30661
+17:56:28.371 Source map error: Error: request failed with status 404
+Resource URL: https://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/gz3d.gui.js
+Source Map URL: jquery.mobile-1.4.0.min.map
+17:56:35.428 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/bundle.js
+[HTTP/1.1 200 OK 32333ms]
+
+17:56:35.523 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 2298ms]
+
+17:56:36.628 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/jupyter/api/kernels/9350a75f-5bf2-471d-be4b-289d514e5a3b/channels?session_id=e5984f52170345f2ad8e8744cdd58901
+[HTTP/1.1 101 Switching Protocols 2003ms]
+
+17:56:38.635 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/556
+[HTTP/1.1 101 Switching Protocols 2141ms]
+
+17:56:40.780 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/563
+[HTTP/1.1 101 Switching Protocols 1530ms]
+
+17:56:42.315 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/xterm/terminals/569
+[HTTP/1.1 101 Switching Protocols 1654ms]
+
+17:56:43.972 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb_ws/
+[HTTP/1.1 101 Switching Protocols 3080ms]
+
+17:56:48.151 unreachable code after return statement gz3d.gui.js:66848:2
+17:56:50.460 I'm alive at Tue May 04 2021 17:56:50 GMT-0700 (Pacific Daylight Time) DesktopMixin.js:87:20
+17:56:50.464 XHRPOSThttps://api.robotigniteacademy.com/desktop/im_alive/
+[HTTP/2 200 OK 1067ms]
+
+17:56:50.530 XHRPOSThttps://api.robotigniteacademy.com/token/refresh/
+[HTTP/2 200 OK 1130ms]
+
+17:56:51.534 I am alive received: [object Object] at Tue May 04 2021 17:56:51 GMT-0700 (Pacific Daylight Time) desktop.js:64:14
+17:56:53.155 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets/brick_box_3x1x3/meshes/simple_box.dae
+[HTTP/1.1 200 OK 1396ms]
+
+17:56:53.162 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/main_body.dae
+[HTTP/1.1 200 OK 19487ms]
+
+17:56:53.163 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/sensors/xtion_pro_camera.dae
+[HTTP/1.1 200 OK 10880ms]
+
+17:56:53.169 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//turtlebot_description/meshes/sensors/hokuyo.dae
+[HTTP/1.1 200 OK 4724ms]
+
+17:56:53.174 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/sensors/xtion_pro_stack.dae
+[HTTP/1.1 200 OK 2958ms]
+
+17:56:53.178 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/plate_bottom_reexport.dae
+[HTTP/1.1 200 OK 4335ms]
+
+17:56:53.179 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/plate_middle_reexport.dae
+[HTTP/1.1 200 OK 8715ms]
+
+17:56:53.180 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/plate_top_reexport.dae
+[HTTP/1.1 200 OK 6270ms]
+
+17:56:53.182 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_bottom_reexport.dae
+[HTTP/1.1 200 OK 6410ms]
+
+17:56:53.184 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_bottom_reexport.dae
+[HTTP/1.1 200 OK 8700ms]
+
+17:56:53.186 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_bottom_reexport.dae
+[HTTP/1.1 200 OK 9206ms]
+
+17:56:53.187 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_bottom_reexport.dae
+[HTTP/1.1 200 OK 10035ms]
+
+17:56:53.188 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_bottom_reexport.dae
+[HTTP/1.1 200 OK 10124ms]
+
+17:56:53.189 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_bottom_reexport.dae
+[HTTP/1.1 200 OK 10518ms]
+
+17:56:53.190 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/sensors/sensor_pole_reexport.dae
+[HTTP/1.1 200 OK 15407ms]
+
+17:56:53.193 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/sensors/sensor_pole_reexport.dae
+[HTTP/1.1 200 OK 15348ms]
+
+17:56:53.194 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_middle_reexport.dae
+[HTTP/1.1 200 OK 21019ms]
+
+17:56:53.195 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_middle_reexport.dae
+[HTTP/1.1 200 OK 13833ms]
+
+17:56:53.195 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_middle_reexport.dae
+[HTTP/1.1 200 OK 13720ms]
+
+17:56:53.196 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_top_reexportdae.dae
+[HTTP/1.1 200 OK 13582ms]
+
+17:56:53.196 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_middle_reexport.dae
+[HTTP/1.1 200 OK 13737ms]
+
+17:56:53.197 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_top_reexportdae.dae
+[HTTP/1.1 200 OK 14574ms]
+
+17:56:53.197 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_top_reexportdae.dae
+[HTTP/1.1 200 OK 14542ms]
+
+17:56:53.198 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/stacks/hexagons/pole_top_reexportdae.dae
+[HTTP/1.1 200 OK 14595ms]
+
+17:56:53.202 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/wheel.dae
+[HTTP/1.1 200 OK 15760ms]
+
+17:56:53.203 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets//kobuki_description/meshes/wheel.dae
+[HTTP/1.1 200 OK 16490ms]
+
+17:56:54.558 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets/brick_box_3x1x3/materials/textures/simple_box.png
+[HTTP/1.1 200 OK 58155ms]
+
+17:56:55.292 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…s/sensors/xtion_pro.jpg">
+gz3d.gui.js:18028:13
+17:56:56.991 THREE.MultiMaterial has been removed. Use an Array instead. gz3d.gui.js:42302:11
+17:56:57.545 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…s/hexagons/1f_stack.jpg">
+gz3d.gui.js:18028:13
+17:56:59.607 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/1f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:01.907 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/1f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:01.915 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…s/hexagons/2f_stack.jpg">
+gz3d.gui.js:18028:13
+17:57:02.409 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/1f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:03.011 THREE.WebGLRenderer: image is not power of two (700x700). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…rs/xtion_pro_camera.jpg">
+gz3d.gui.js:18028:13
+17:57:03.240 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/1f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:03.324 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/1f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:03.724 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/1f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:06.796 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/3f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:06.930 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/2f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:06.973 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/2f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:07.041 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/2f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:07.773 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/3f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:07.811 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/3f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:07.819 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/3f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:08.170 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/e817279537a0417d042f62fbb1b99eea.gif
+[HTTP/1.1 200 OK 1413ms]
+
+17:57:08.557 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…s/sensors/xtion_pro.jpg">
+gz3d.gui.js:18028:13
+17:57:08.607 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…s/sensors/xtion_pro.jpg">
+gz3d.gui.js:18028:13
+17:57:09.062 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…shes/./images/wheel.jpg">
+gz3d.gui.js:18028:13
+17:57:09.615 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/vs/loader.js
+[HTTP/1.1 200 OK 638ms]
+
+17:57:09.757 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…shes/./images/wheel.jpg">
+gz3d.gui.js:18028:13
+17:57:09.791 THREE.WebGLRenderer: image is not power of two (600x600). Resized to 512x512 
+<img crossorigin="" src="assets//kobuki_descripti…ks/hexagons/2f_pole.jpg">
+gz3d.gui.js:18028:13
+17:57:10.264 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/vs/editor/editor.main.js
+[HTTP/1.1 200 OK 1668ms]
+
+17:57:12.013 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/vs/editor/editor.main.css
+[HTTP/1.1 200 OK 1247ms]
+
+17:57:12.016 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/vs/editor/editor.main.nls.js
+[HTTP/1.1 200 OK 1018ms]
+
+17:57:13.267 This page uses the non standard property “zoom”. Consider using calc() in the relevant property values, or using “transform” along with “transform-origin: 0 0”. eac8df3d-7e44-49d7-9a6b-d49c75e8002e
+17:57:13.298 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/vs/language/html/monaco.contribution.js
+[HTTP/1.1 200 OK 1101ms]
+
+17:57:13.298 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/vs/language/css/monaco.contribution.js
+[HTTP/1.1 200 OK 1073ms]
+
+17:57:14.454 XHRGEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/f8f821a66b20e5801e35df5ec4565b30.wasm
+[HTTP/1.1 200 OK 1048ms]
+
+17:57:14.795 XHRGEThttps://schemastore.azurewebsites.net/api/json/catalog.json
+[HTTP/1.1 200 OK 2431ms]
+
+17:57:14.998 GETwss://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/services
+[HTTP/1.1 101 Switching Protocols 1416ms]
+
+17:57:17.739 root WARN Collided keybinding is ignored;  {"command":"editor.action.startFindReplaceAction","keybinding":"meta+alt+f","when":null}  collided with  {"command":"core.replace","keybinding":"ctrlcmd+alt+f"} logger-protocol.ts:112:15
+17:57:17.739 root WARN Could not register keybinding:
+  {"command":"editor.action.startFindReplaceAction","keybinding":"meta+alt+f","when":null}
+Error: "meta+alt+f" is in collision with something else [scope:0] logger-protocol.ts:112:15
+17:57:17.739 root WARN Collided keybinding is ignored;  {"command":"actions.find","keybinding":"meta+f","when":null}  collided with  {"command":"core.find","keybinding":"ctrlcmd+f"} logger-protocol.ts:112:15
+17:57:17.740 root WARN Could not register keybinding:
+  {"command":"actions.find","keybinding":"meta+f","when":null}
+Error: "meta+f" is in collision with something else [scope:0] logger-protocol.ts:112:15
+17:57:17.740 root ERROR Failed to restore monaco themes InvalidStateError: A mutation operation was attempted on a database that did not allow mutations. logger-protocol.ts:112:15
+17:57:20.521 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 2523ms]
+
+17:57:24.683 root WARN e.onStart is slow, took: 9778.0 ms logger-protocol.ts:112:15
+17:57:24.705 root INFO Changed application state from 'init' to 'started_contributions'. logger-protocol.ts:112:15
+17:57:24.712 root INFO Changed application state from 'started_contributions' to 'attached_shell'. logger-protocol.ts:112:15
+17:57:24.713 root INFO >>> Restoring the layout state... logger-protocol.ts:112:15
+17:57:24.720 root INFO <<< Nothing to restore. logger-protocol.ts:112:15
+17:57:33.171 root INFO [a79c955e-98e5-47a6-8211-7d244f00c021] Sync of 65 plugins took: 8473.0 ms logger-protocol.ts:112:15
+17:57:44.762 force IDE to ready state (after 20 seconds with address) AppIDE.vue:148
+17:57:50.458 I'm alive at Tue May 04 2021 17:57:50 GMT-0700 (Pacific Daylight Time) DesktopMixin.js:87:20
+17:57:50.463 XHRPOSThttps://api.robotigniteacademy.com/desktop/im_alive/
+[HTTP/2 200 OK 1384ms]
+
+17:57:50.532 XHRPOSThttps://api.robotigniteacademy.com/token/refresh/
+[HTTP/2 200 OK 1315ms]
+
+17:57:51.849 I am alive received: [object Object] at Tue May 04 2021 17:57:51 GMT-0700 (Pacific Daylight Time) desktop.js:64:14
+17:57:52.717 GEThttps://i-06fd9174c4140f4f5.robotigniteacademy.com/eac8df3d-7e44-49d7-9a6b-d49c75e8002e/gzweb/assets/brick_box_3x1x3/materials/textures/simple_box.png
+[HTTP/1.1 200 OK 0ms]
+
+17:57:53.890 XHRGEThttps://googleads.g.doubleclick.net/pagead/id
+Tracking
+
+17:57:53.892 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://googleads.g.doubleclick.net/pagead/id. (Reason: CORS request did not succeed).
+17:57:53.941 XHRGEThttps://googleads.g.doubleclick.net/pagead/id
+Tracking
+
+17:57:53.942 Cross-Origin Request Blocked: The Same Origin Policy disallows reading the remote resource at https://googleads.g.doubleclick.net/pagead/id. (Reason: CORS request did not succeed).
+17:58:05.522 XHRGEThttps://api.robotigniteacademy.com/desktop/
+[HTTP/2 200 OK 2826ms]
+
